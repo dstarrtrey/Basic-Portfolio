@@ -1,2 +1,2 @@
 # BootCampHomework
-Homework...for my boot camp
+Basic portfolio using HTML and CSS
